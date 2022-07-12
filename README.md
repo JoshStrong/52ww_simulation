@@ -15,4 +15,6 @@ Priorities:
 - Priority 3: 13 weeks
 - Priority 4: 52 weeks
 
-Only includes the simulation function with prioritizes P2s first and then all the others
+_Only includes the simulation function with prioritizes P2s first and then all the others_
+
+Credit: https://github.com/jamieleigh
